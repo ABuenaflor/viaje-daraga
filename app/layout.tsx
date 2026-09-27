@@ -7,6 +7,7 @@ import { Providers } from "@/components/site/Providers";
 import { Nav, type NavLabels } from "@/components/site/Nav";
 import { AdvisoryPill, type AdvisoryLabels } from "@/components/site/AdvisoryPill";
 import { Footer } from "@/components/site/Footer";
+import { PageBackdrop } from "@/components/site/PageBackdrop";
 import "./globals.css";
 
 const inter = Inter({ variable: "--font-inter", subsets: ["latin"], display: "swap" });
@@ -52,7 +53,8 @@ export default async function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang={locale === "fil" ? "fil" : "en"} className={`${inter.variable} ${serif.variable} antialiased`}>
       <body className="flex min-h-dvh flex-col">
-          <Providers>
+        <Providers>
+          <PageBackdrop />
           <Nav index={searchIndex()} labels={navLabels} />
           <AdvisoryPill advisory={advisory} mdrrmo={mdrrmo} labels={advisoryLabels} />
           <main id="main" className="flex-1">
@@ -60,7 +62,7 @@ export default async function RootLayout({ children }: LayoutProps<"/">) {
           </main>
           <Footer />
         </Providers>
-    </body>
+      </body>
     </html>
   );
 }

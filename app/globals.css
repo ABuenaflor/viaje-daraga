@@ -43,8 +43,9 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 
+/* Transparent so the fixed PageBackdrop (z -10) shows through; html paints the paper. */
 body {
-  background: var(--paper);
+  background: transparent;
   color: var(--ink);
   font-family: var(--font-sans);
   text-rendering: optimizeLegibility;
@@ -152,5 +153,27 @@ html.lenis body {
   }
   to {
     transform: translateX(30px);
+  }
+}
+
+/* Page backdrop mosaic (components/site/PageBackdrop.tsx): fainter behind the reading column,
+   stronger toward the edges. Loops by exactly one tile period, so the drift is seamless. */
+.page-backdrop {
+  mask-image: radial-gradient(120% 90% at 50% 45%, rgb(0 0 0 / 0.35) 0%, rgb(0 0 0 / 0.45) 40%, #000 100%);
+}
+.backdrop-pan {
+  animation: backdrop-pan var(--pan-dur, 140s) linear infinite;
+}
+@keyframes backdrop-pan {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(var(--pan-x), var(--pan-y), 0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .backdrop-pan {
+    animation: none;
   }
 }
