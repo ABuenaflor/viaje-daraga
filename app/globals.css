@@ -1,26 +1,156 @@
 @import "tailwindcss";
 
+/* Palette (§5). Text-bearing accents are darkened versions that pass 4.5:1 on --paper. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #f8f8f7;
+  --ink: #1b1917;
+  --basalt: #2b2622;
+  --ember: #c4410c; /* text/CTA-safe lava (5.1:1 on paper) */
+  --ember-bright: #d9480f; /* decorative only */
+  --sili: #b91c1c;
+  --abaca: #e9dcc3;
+  --abaca-soft: #f2eadb;
+  --rice: #4e7a30;
+  --sky: #8db8d8;
+  --ash: #8a847d; /* borders, icons */
+  --ash-ink: #5f5953; /* muted text (6.4:1 on paper) */
+  --line: #e4e0da;
+  color-scheme: light;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-basalt: var(--basalt);
+  --color-ember: var(--ember);
+  --color-ember-bright: var(--ember-bright);
+  --color-sili: var(--sili);
+  --color-abaca: var(--abaca);
+  --color-abaca-soft: var(--abaca-soft);
+  --color-rice: var(--rice);
+  --color-sky: var(--sky);
+  --color-ash: var(--ash);
+  --color-ash-ink: var(--ash-ink);
+  --color-line: var(--line);
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-serif), ui-serif, Georgia, serif;
+  --shadow-soft: 0 1px 2px rgb(27 25 23 / 0.04), 0 8px 24px -12px rgb(27 25 23 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(27 25 23 / 0.05), 0 20px 40px -16px rgb(27 25 23 / 0.22);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--paper);
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+}
+
+/* Lenis */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ember);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+::selection {
+  background: var(--abaca);
+  color: var(--ink);
+}
+
+@utility container-site {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+@utility eyebrow {
+  @apply text-xs font-semibold tracking-[0.18em] text-ash-ink uppercase;
+}
+
+@utility display {
+  @apply font-display font-normal tracking-[-0.01em] text-balance;
+}
+
+@utility chip {
+  @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-white/70 px-3 py-1.5 text-sm text-ink transition-colors hover:border-ash hover:bg-white;
+  &[aria-pressed="true"],
+  &[aria-selected="true"] {
+    @apply border-ink bg-ink text-paper;
+  }
+}
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-medium transition-[transform,background-color,box-shadow] active:scale-[0.98];
+}
+
+@utility btn-primary {
+  @apply btn bg-ember text-white shadow-soft hover:bg-[#a9380a];
+}
+
+@utility btn-dark {
+  @apply btn bg-ink text-paper hover:bg-basalt;
+}
+
+@utility btn-ghost {
+  @apply btn border border-line bg-white/70 text-ink hover:border-ash hover:bg-white;
+}
+
+@utility card {
+  @apply rounded-2xl border border-line bg-white shadow-soft;
+}
+
+@utility prose-site {
+  & p {
+    @apply mb-4 leading-relaxed text-ink/90;
+  }
+}
+
+/* Hatched fill used for "approximate" UI and the PDZ legend swatch */
+.hatch {
+  background-image: repeating-linear-gradient(135deg, currentColor 0 2px, transparent 2px 7px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* MapLibre controls tuned to the palette */
+.maplibregl-ctrl-group {
+  border-radius: 12px !important;
+  box-shadow: var(--shadow-soft) !important;
+}
+.maplibregl-popup-content {
+  border-radius: 16px !important;
+  padding: 0 !important;
+  box-shadow: var(--shadow-lift) !important;
+}
+
+@keyframes drift {
+  from {
+    transform: translateX(-30px);
+  }
+  to {
+    transform: translateX(30px);
+  }
 }

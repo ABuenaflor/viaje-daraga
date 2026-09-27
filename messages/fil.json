@@ -1,0 +1,50 @@
+{
+  "_note": "DRAFT — for review by a Filipino-speaking tourism staffer before launch.",
+  "nav": {
+    "explore": "Tuklasin",
+    "map": "Mapa",
+    "eat": "Kainan",
+    "cafes": "Café at tambayan",
+    "stay": "Matutuluyan",
+    "events": "Mga kaganapan",
+    "plan": "Magplano",
+    "heritage": "1814",
+    "about": "Tungkol",
+    "search": "Maghanap",
+    "menu": "Menu",
+    "close": "Isara",
+    "skip": "Lumaktaw sa nilalaman"
+  },
+  "advisory": {
+    "level": "Mayon Alert Level {level}",
+    "noEntry": "Bawal pumasok: {km}-km Permanent Danger Zone",
+    "updated": "Na-update {date}",
+    "details": "Buong abiso",
+    "source": "Tingnan ang {source}",
+    "collapse": "Itago ang abiso",
+    "expand": "Ipakita ang abiso sa Mayon",
+    "verify": "Kumpirmahin ang kasalukuyang alert level sa PHIVOLCS bago bumiyahe."
+  },
+  "common": {
+    "askOffice": "Magtanong sa tourism office",
+    "approximate": "Tinatayang lokasyon",
+    "directions": "Direksyon",
+    "details": "Detalye",
+    "share": "Ibahagi",
+    "copied": "Nakopya ang link",
+    "save": "I-save",
+    "saved": "Naka-save",
+    "lastVerified": "Huling sinuri {date}",
+    "sources": "Mga pinagkunan",
+    "verify": "Hindi pa kumpirmado — alamin muna bago pumunta",
+    "tempClosed": "Pansamantalang sarado",
+    "nearPdz": "Malapit sa danger zone ng Mayon"
+  },
+  "footer": {
+    "tagline": "Gabay ng mga bisita sa Bayan ng Daraga, Albay.",
+    "official": "Opisyal na site ng LGU",
+    "hotlines": "Mga hotline",
+    "credits": "Pagkilala",
+    "disclaimer": "Ang mga listahan ay batay sa pananaliksik. Ang mga detalyeng hindi pa kumpirmado ay sinusuri pa kasama ang Daraga Tourism Office."
+  }
+}

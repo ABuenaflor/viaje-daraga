@@ -7,6 +7,8 @@ const eslintConfig = defineConfig([
   ...nextTs,
   // Override default ignores of eslint-config-next.
   globalIgnores([
+    // Vendor MapLibre worker copied by scripts/copy-maplibre-worker.mjs
+    "public/maplibre/**",
     // Default ignores of eslint-config-next:
     ".next/**",
     "out/**",

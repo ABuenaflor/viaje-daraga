@@ -1,0 +1,91 @@
+[
+  {
+    "id": "one-day",
+    "slug": "belfry-to-night-market",
+    "title": "1 day — Belfry to Night Market",
+    "summary": "Cagsawa at dawn, Bicolano lunch, a vintage café, sunset on the church hill and a street-food crawl.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Belfry to Night Market",
+        "stops": [
+          { "time": "6:00", "placeId": "cagsawa-ruins", "label": "Cagsawa Ruins Park", "note": "Beat the clouds and the heat. Visit the museum when it opens." },
+          { "time": "8:00", "placeId": "mayon-atv", "label": "ATV trail", "note": "Green Lava or the Cagsawa Trail — only if the advisory allows." },
+          { "time": "11:30", "placeId": "balay-sa-bikol", "label": "Lunch at Balay sa Bikol", "note": "Bicol Express and laing." },
+          { "time": "13:30", "placeId": "cafe-fabrika", "label": "Cafe Fabrika", "note": "Coffee and the vintage gallery." },
+          { "time": "15:30", "placeId": "daraga-church", "label": "Daraga Church", "note": "Façade details, Mayon and gulf views." },
+          { "time": "17:30", "placeId": "daraga-church", "label": "Sunset on the church hill", "note": "Stay for golden hour." },
+          { "time": "19:00", "placeId": "red-labuyo", "label": "Dinner at Red Labuyo", "note": "Then walk down to the Night Market." },
+          { "time": "20:30", "placeId": "night-market", "label": "Daraga Night Market", "note": "Street-food crawl on T. Perez St." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "two-day",
+    "slug": "two-days-in-daraga",
+    "title": "2 days — Heritage, suman & farm lights",
+    "summary": "Day 1 as above, then a suman hunt in Tagas, sili ice cream, Budiao ruins and an evening at FarmPlate.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Belfry to Night Market",
+        "stops": [
+          { "time": "6:00", "placeId": "cagsawa-ruins", "label": "Cagsawa Ruins Park", "note": "Early for clear Mayon views." },
+          { "time": "8:00", "placeId": "mayon-atv", "label": "ATV trail", "note": "Only if the advisory allows." },
+          { "time": "11:30", "placeId": "balay-sa-bikol", "label": "Lunch at Balay sa Bikol", "note": "Bicol Express and laing." },
+          { "time": "15:30", "placeId": "daraga-church", "label": "Daraga Church & sunset", "note": "Mayon on one side, the gulf on the other." },
+          { "time": "19:00", "placeId": "night-market", "label": "Daraga Night Market", "note": "Dinner on the street." }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Suman, sili & FarmPlate",
+        "stops": [
+          { "time": "8:00", "placeId": null, "label": "Suman hunt in Brgy. Tagas", "note": "Freshly steamed rice cakes from the makers." },
+          { "time": "11:00", "placeId": "first-colonial-grill", "label": "1st Colonial Grill", "note": "Lunch, then sili ice cream — pick your heat level." },
+          { "time": "14:00", "placeId": "budiao-ruins", "label": "Budiao ruins", "note": "Only if open to visitors and the advisory permits. Call the tourism office first." },
+          { "time": "16:30", "placeId": "farmplate", "label": "FarmPlate", "note": "Stay into the evening for the lights and bonfire." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "three-day",
+    "slug": "three-days-with-day-trip",
+    "title": "3 days — add a day trip",
+    "summary": "Two days in Daraga plus Camalig (lake, hills, cave, pinangat) or Legazpi (Ligñon Hill, the boulevard).",
+    "days": [
+      {
+        "day": 1,
+        "title": "Belfry to Night Market",
+        "stops": [
+          { "time": "6:00", "placeId": "cagsawa-ruins", "label": "Cagsawa Ruins Park", "note": "Early for clear Mayon views." },
+          { "time": "11:30", "placeId": "balay-sa-bikol", "label": "Lunch at Balay sa Bikol", "note": "Bicolano classics." },
+          { "time": "13:30", "placeId": "cafe-fabrika", "label": "Cafe Fabrika", "note": "Coffee and the gallery." },
+          { "time": "16:00", "placeId": "daraga-church", "label": "Daraga Church & sunset", "note": "Golden hour on the hill." },
+          { "time": "19:00", "placeId": "night-market", "label": "Daraga Night Market", "note": "Street-food crawl." }
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Adventure & farm lights",
+        "stops": [
+          { "time": "7:00", "placeId": "mayon-atv", "label": "Mayon ATV", "note": "Only if the advisory allows." },
+          { "time": "11:30", "placeId": "first-colonial-grill", "label": "1st Colonial Grill", "note": "Sili ice cream." },
+          { "time": "14:00", "placeId": "tierra-cafe", "label": "Tierra Cafe", "note": "Matcha break." },
+          { "time": "16:30", "placeId": "farmplate", "label": "FarmPlate", "note": "Evening lights and bonfire." }
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Day trip: Camalig or Legazpi",
+        "stops": [
+          { "time": "7:00", "placeId": "camalig-day-trip", "label": "Camalig", "note": "Sumlang Lake, Quitinday Hills, Hoyop-Hoyopan Cave, pinangat." },
+          { "time": "10:00", "placeId": "seven-eleven-salugan", "label": "The 7-Eleven Mayon shot", "note": "Brgy. Salugan, Camalig." },
+          { "time": null, "placeId": "legazpi-day-trip", "label": "…or Legazpi instead", "note": "Ligñon Hill, the boulevard, the Embarcadero." }
+        ]
+      }
+    ]
+  }
+]

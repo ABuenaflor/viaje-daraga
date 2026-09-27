@@ -1,0 +1,23 @@
+{
+  "name": "Viaje Daraga",
+  "tagline": "Where Mayon meets memory",
+  "officialLine": "Where breathtaking views inspire economic growth.",
+  "url": "https://viajedaraga.example",
+  "lguUrl": "https://daraga.gov.ph",
+  "mayonSummit": { "lat": 13.25667, "lng": 123.685 },
+  "mapCenter": { "lat": 13.155, "lng": 123.705 },
+  "splineScene": null,
+  "stats": [
+    { "value": 54, "label": "barangays" },
+    { "value": 1773, "label": "Daraga Church built" },
+    { "value": 1814, "label": "the eruption that buried Cagsawa" },
+    { "value": 3, "label": "National Cultural Treasures" }
+  ],
+  "phrases": [
+    { "bikol": "Marhay na aldaw", "meaning": "Good day" },
+    { "bikol": "Dios mabalos", "meaning": "Thank you" },
+    { "bikol": "Magayon", "meaning": "Beautiful" },
+    { "bikol": "Pira?", "meaning": "How much?" }
+  ],
+  "researchedAt": "2026-09-27"
+}

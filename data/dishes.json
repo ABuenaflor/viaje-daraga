@@ -1,0 +1,104 @@
+[
+  {
+    "id": "bicol-express",
+    "name": "Bicol Express",
+    "type": "dish",
+    "description": "Pork stewed in coconut milk with chilies and shrimp paste.",
+    "whereToTry": ["balay-sa-bikol", "red-labuyo"],
+    "whereNote": "Also at most carinderias",
+    "spiceLevel": 2
+  },
+  {
+    "id": "laing",
+    "name": "Laing",
+    "type": "dish",
+    "description": "Taro leaves slow-cooked in coconut milk with chili.",
+    "whereToTry": ["red-labuyo", "balay-sa-bikol"],
+    "spiceLevel": 1
+  },
+  {
+    "id": "pinangat",
+    "name": "Pinangat",
+    "type": "delicacy",
+    "description": "Camalig's parcels of taro leaves wrapped around pork or shrimp, simmered in coconut milk with chili.",
+    "whereToTry": ["camalig-day-trip"],
+    "whereNote": "Also at pasalubong shops",
+    "spiceLevel": 1
+  },
+  {
+    "id": "kinalas",
+    "name": "Kinalas",
+    "type": "dish",
+    "description": "Noodle soup in a rich broth with shredded meat — from Naga, and popular across Albay.",
+    "whereToTry": ["roses-kinalas"],
+    "spiceLevel": 0
+  },
+  {
+    "id": "kinunot",
+    "name": "Kinunot",
+    "type": "dish",
+    "description": "Shredded stingray or fish in coconut milk with malunggay and chili.",
+    "whereToTry": [],
+    "whereNote": "Bicolano restaurants around town",
+    "spiceLevel": 1
+  },
+  {
+    "id": "tinutungan",
+    "name": "Chicken tinutungan",
+    "localName": "Tinutong",
+    "type": "dish",
+    "description": "Chicken cooked in \"burnt\" — toasted — coconut milk, for a deep, smoky flavour.",
+    "whereToTry": ["balay-cena-una"],
+    "spiceLevel": 0
+  },
+  {
+    "id": "lumpiang-tinapa",
+    "name": "Lumpiang tinapa & kandingga",
+    "type": "dish",
+    "description": "Smoked-fish spring rolls, and kandingga — a sour pork-offal stew.",
+    "whereToTry": ["balay-cena-una"],
+    "spiceLevel": 0
+  },
+  {
+    "id": "tinapa-twists",
+    "name": "Tinapa rice, pizza & pasta",
+    "type": "dish",
+    "description": "Smoked fish worked into everyday staples.",
+    "whereToTry": ["first-colonial-grill", "originals-street-cafe"],
+    "spiceLevel": 0
+  },
+  {
+    "id": "sili-ice-cream",
+    "name": "Sili ice cream",
+    "type": "dessert",
+    "description": "Chili ice cream, invented by 1st Colonial Grill in 2004, with heat levels up to \"Mayon\". Try pili, malunggay or toasted-rice flavours too.",
+    "whereToTry": ["first-colonial-grill"],
+    "spiceLevel": 3
+  },
+  {
+    "id": "daraga-suman",
+    "name": "Daraga suman",
+    "type": "pasalubong",
+    "description": "Sticky glutinous-rice cakes steamed in banana leaves. Brgy. Tagas is famous for its makers (about ₱20 each in 2023 reports).",
+    "whereToTry": [],
+    "whereNote": "Brgy. Tagas, the public market and LGU pasalubong fairs",
+    "spiceLevel": 0
+  },
+  {
+    "id": "pili",
+    "name": "Pili nut treats",
+    "type": "pasalubong",
+    "description": "Mazapan, pastillas, honey-glazed, roasted or salted pili, and pili tarts.",
+    "whereToTry": ["cagsawa-ruins"],
+    "whereNote": "Pasalubong centres and Cagsawa stalls",
+    "spiceLevel": 0
+  },
+  {
+    "id": "sili-latte",
+    "name": "Sili latte & Bicolana latte",
+    "type": "drink",
+    "description": "Local café twists — a latte with a chili kick, and a Bicolana house blend.",
+    "whereToTry": ["originals-street-cafe"],
+    "spiceLevel": 1
+  }
+]

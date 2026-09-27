@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tourism",
+    "name": "Daraga Tourism Office",
+    "group": "tourism",
+    "phones": ["+63 956 862 4653"],
+    "email": "lgudaraga.tourism2025@gmail.com",
+    "address": "Municipal Hall, Daraga"
+  },
+  {
+    "id": "mayor",
+    "name": "Municipal Hall / Office of the Mayor",
+    "group": "government",
+    "phones": ["+63 962 314 0957", "+63 916 689 1413"],
+    "email": "lgu@daraga.gov.ph",
+    "address": "T. Perez St., Brgy. San Roque, Daraga"
+  },
+  { "id": "commcenter", "name": "Daraga Communications Center", "group": "emergency", "phones": ["+63 951 274 9543"] },
+  { "id": "national-911", "name": "National Emergency Hotline", "group": "emergency", "phones": ["911"] },
+  { "id": "police", "name": "Daraga Municipal Police Station", "group": "emergency", "phones": ["+63 998 967 3523"] },
+  { "id": "fire", "name": "BFP Daraga Fire Station", "group": "emergency", "phones": ["+63 906 564 8793"] },
+  { "id": "mdrrmo", "name": "MDRRMO (disaster risk reduction)", "group": "emergency", "phones": ["+63 921 414 1927"] },
+  { "id": "mswdo", "name": "MSWDO (social welfare)", "group": "government", "phones": ["+63 931 798 7895"] },
+  {
+    "id": "aleco",
+    "name": "ALECO (electricity)",
+    "group": "utility",
+    "phones": ["+63 908 677 3393", "+63 995 073 1045"],
+    "note": "Smart / Globe"
+  }
+]

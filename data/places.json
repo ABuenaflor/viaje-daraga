@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "cagsawa-ruins",
+    "slug": "cagsawa-ruins-park",
+    "name": "Cagsawa Ruins Park",
+    "category": "heritage",
+    "tags": [
+      "mayon-view",
+      "national-cultural-treasure",
+      "museum",
+      "photo-spot",
+      "family",
+      "morning"
+    ],
+    "barangay": "Busay",
+    "address": "Cagsawa Ruins Road, Brgy. Busay, Daraga, Albay",
+    "coords": {
+      "lat": 13.16611,
+      "lng": 123.70111
+    },
+    "plusCode": null,
+    "coordsVerified": true,
+    "nearPdz": false,
+    "short": "The belfry that survived Mayon's 1814 eruption — and the most photographed Mayon view in the Philippines.",
+    "long": "The remains of the Franciscan church complex of Cagsawa, rebuilt in 1724 and destroyed by Mayon Volcano's eruption on 1 February 1814, which killed more than 1,200 people. The surviving belfry, framed by Mayon's near-perfect cone, is one of the most photographed views in the country.\n\nWalk among the walls of the church and convent and the remnants of the Casa Real and Ayuntamiento. The Cagsawa branch of the National Museum holds photographs of past eruptions plus geology and archaeology exhibits.\n\nCagsawa was declared a National Cultural Treasure in 2015. Its marker was formally unveiled at the opening of the Cagsawa Festival on 1 February 2026, amid talk of a future World Heritage bid. Two more heritage structures inside the complex have been announced as opening soon.",
+    "highlights": [
+      "The 1814 belfry with Mayon behind it",
+      "National Museum Cagsawa branch",
+      "Church and convent walls, Casa Real and Ayuntamiento remnants",
+      "Souvenir and food stalls near the entrance"
+    ],
+    "bestTime": "Early morning — Mayon is usually clearest before clouds build up around midday",
+    "hours": null,
+    "fees": [
+      {
+        "label": "Adult",
+        "php": 100
+      },
+      {
+        "label": "Child",
+        "php": 50
+      },
+      {
+        "label": "Senior / PWD",
+        "php": 75
+      },
+      {
+        "label": "Student",
+        "php": 75
+      },
+      {
+        "label": "Parking — car",
+        "php": 50
+      },
+      {
+        "label": "Parking — motorcycle / tricycle",
+        "php": 30
+      }
+    ],
+    "feeNote": "Effective 1 July 2026, includes a ₱25 environmental fee. Daraga residents get an extra discount with valid ID. QR passes, digital payments and online booking are available.",
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": "Stay on the paths and never climb the stonework. Bring water, a hat and sunscreen — there is little shade at midday.",
+    "tips": [
+      "Allow 60–90 minutes; longer if you add the museum or an ATV ride.",
+      "Come early: Mayon is often hidden by clouds by early afternoon.",
+      "ATV operators stage just outside — book with DOT-accredited operators only."
+    ],
+    "images": [],
+    "status": "open",
+    "verifyNote": "New fees relayed from an LGU post by a Bicol blog — confirm with the tourism office.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cagsawa_Ruins",
+      "https://newsinfo.inquirer.net/2176618/cagsawa-ruins-now-a-national-cultural-treasure",
+      "http://bicolanomythsofgodsandmonsters.blogspot.com/2026/07/bagong-rates-sa-cagsawa-ruins.html",
+      "https://cagsawaruins.com/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "daraga-church",
+    "slug": "daraga-church",
+    "name": "Daraga Church — Our Lady of the Gate Parish",
+    "category": "heritage",
+    "tags": [
+      "mayon-view",
+      "national-cultural-treasure",
+      "sunset",
+      "sunrise",
+      "church",
+      "walkable-from-poblacion"
+    ],
+    "barangay": "San Roque",
+    "address": "Sta. Maria St., Brgy. San Roque (Sta. Maria hill), Daraga, Albay",
+    "coords": {
+      "lat": 13.14986,
+      "lng": 123.712
+    },
+    "plusCode": "4PX6+WWW Daraga, Albay",
+    "coordsVerified": true,
+    "nearPdz": false,
+    "short": "A 1773 volcanic-stone Baroque church on a hill, with Mayon on one side and Albay Gulf on the other.",
+    "long": "Built by the Franciscans in 1773 on a hill while Daraga was still a visita of Cagsawa, the church became the main parish after the 1814 eruption and was consecrated to Nuestra Señora de la Porteria (Our Lady of the Gate) in 1854.\n\nIts volcanic-stone Churrigueresque/Baroque façade features four Solomonic (spiral) columns bearing medallions of the Four Evangelists, the Franciscan coat of arms and images of saints. The façade was repaired after World War II. Daraga Church was declared a National Cultural Treasure in 2007.\n\nFrom the churchyard you can see Mayon on one side and Legazpi and Albay Gulf on the other — one of the best sunrise and sunset spots in town. Visitors also mention a landscaped cascade on the approach.",
+    "highlights": [
+      "Solomonic columns and carved medallions on the façade",
+      "Mayon and Albay Gulf views from the churchyard",
+      "Sunrise and sunset on the hill",
+      "Feast of the patroness every 8 September"
+    ],
+    "bestTime": "Sunrise or late afternoon into sunset",
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [
+      "Take the stairs beside the Municipal Hall, or drive up to the top.",
+      "Dress modestly and keep quiet during Mass.",
+      "The LGU noted September 2025 as the 250th celebration of the patroness."
+    ],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Daraga_Church",
+      "https://daraga.gov.ph/tourism-daraga/",
+      "https://daraga.gov.ph/events.html"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "budiao-ruins",
+    "slug": "budiao-archaeological-site",
+    "name": "Budiao Archaeological Site",
+    "category": "heritage",
+    "tags": [
+      "archaeology",
+      "national-cultural-treasure",
+      "off-the-beaten-path"
+    ],
+    "barangay": "Budiao",
+    "address": "Brgy. Budiao, Daraga, Albay",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": true,
+    "short": "Ruins of an 18th-century church buried by the 1814 eruption, now being excavated by archaeologists.",
+    "long": "The ruins of the Budiao church, part of a pueblo established by decree in 1786, were buried by the 1814 eruption about 7.5 km from Mayon's crater.\n\nThe UP Archaeological Studies Program has excavated the site since 2018 with the Diocese of Legazpi and the National Museum. That year, the first Mass in more than two centuries was held among the ruins.\n\nBudiao was declared a local heritage site (SB Resolution 95-2017). In February 2026 the National Museum cited it as one of Daraga's three National Cultural Treasures.",
+    "highlights": [
+      "Active archaeological excavation",
+      "Part of the 1814 eruption story alongside Cagsawa",
+      "One of Daraga's three National Cultural Treasures"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": "Close to the Mayon Permanent Danger Zone. Always check PHIVOLCS and LGU advisories, and confirm with the tourism office whether the site is open to walk-in visitors.",
+    "tips": [
+      "Call the tourism office before going — access depends on the advisory and the excavation schedule."
+    ],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Exact location unconfirmed — some reports place it toward Bañadero.",
+    "sources": [
+      "https://www.pna.gov.ph/articles/1036315",
+      "https://www.rappler.com/philippines/202371-mass-budiao-ruins-first-time-204-years/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "mayon-volcano",
+    "slug": "mayon-volcano",
+    "name": "Mayon Volcano (viewing only)",
+    "category": "nature-adventure",
+    "tags": [
+      "mayon-view",
+      "photo-spot",
+      "morning"
+    ],
+    "barangay": null,
+    "address": "Mayon Volcano Natural Park, Albay",
+    "coords": {
+      "lat": 13.25667,
+      "lng": 123.685
+    },
+    "plusCode": null,
+    "coordsVerified": true,
+    "nearPdz": true,
+    "short": "A 2,463 m active stratovolcano famous for its near-perfect cone. View it from a distance — entry to the 6-km PDZ is prohibited.",
+    "long": "Mayon is an active stratovolcano, 2,463 m high, famed for its near-perfect cone and protected as part of Mayon Volcano Natural Park.\n\nThe best views from Daraga are from Cagsawa Ruins, the Daraga Church hill, ATV trail viewpoints and the Bicol International Airport approach.\n\nEntry to the 6-km Permanent Danger Zone is prohibited at all times.",
+    "highlights": [
+      "View from Cagsawa Ruins",
+      "View from the Daraga Church hill",
+      "ATV trail viewpoints (when the advisory allows)",
+      "The approach into Bicol International Airport"
+    ],
+    "bestTime": "Early morning, dry season (November–May)",
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": "Do not enter the 6-km Permanent Danger Zone. Follow the current PHIVOLCS alert level. River channels carry lahar risk during heavy rain.",
+    "tips": [
+      "The summit is often clouded after noon — plan photos for the morning."
+    ],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mayon",
+      "https://hazardhunter.georisk.gov.ph/monitoring/volcano"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "mayon-atv",
+    "slug": "mayon-atv-adventures",
+    "name": "Mayon ATV Adventures (Cagsawa staging area)",
+    "category": "nature-adventure",
+    "tags": [
+      "adventure",
+      "mayon-view",
+      "morning",
+      "family"
+    ],
+    "barangay": "Busay",
+    "address": "Cagsawa Road, Brgy. Busay — about 500 m in from Cagsawa Ruins Road, at the parking area",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": true,
+    "short": "Guided ATV rides through lahar channels, river crossings and forest to Mayon viewpoints and old lava flows.",
+    "long": "DOT-accredited operators run guided ATV rides from the Cagsawa area through lahar channels, river crossings and forest to viewpoints and old lava flows.\n\nMayon SkyDrive ATV Adventure lists several trails — including Green Lava, Black Lava (to the 2006 lava wall, about 22 km round trip) and 2018 Lava — plus a \"Mayon Hamster Wheel\" and a dual zipline. Bicol Adventure ATV and B&B ATV also operate here. The Cagsawa Trail is the cheapest, beginner-friendly option.\n\nRides usually include a guide/photographer, the ATV and a helmet, but not the environmental fee or transfers.",
+    "highlights": [
+      "Green Lava, Black Lava and 2018 Lava trails",
+      "Beginner-friendly Cagsawa Trail",
+      "Hamster wheel and dual zipline (Mayon SkyDrive)",
+      "Guide/photographer and helmet usually included"
+    ],
+    "bestTime": "Early morning for clear views and cooler temperatures",
+    "hours": null,
+    "fees": [
+      {
+        "label": "Walk-in ride, per person (reported Jun 2026)",
+        "php": 1500
+      },
+      {
+        "label": "Solo-rider surcharge (reported)",
+        "php": 500
+      }
+    ],
+    "feeNote": "Online listings start from about US$47 for the Black Lava trail. Prices vary by operator and trail — confirm before you ride.",
+    "priceBand": "₱₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": "Trail availability depends on the PHIVOLCS alert level, LGU advisories and lahar conditions. Some trails approach the Permanent Danger Zone — operators must stay outside it.",
+    "tips": [
+      "Expect touts near Cagsawa — book only with DOT-accredited operators.",
+      "Wear clothes you don't mind getting muddy; bring water and sunscreen."
+    ],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://www.openlenslife.com/atv-ride-green-lava-daraga-albay-mayon-volcano/",
+      "https://www.klook.com/en-US/activity/19267-mount-mayon-skydrive-atv-manila/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "farmplate",
+    "slug": "farmplate",
+    "name": "FarmPlate",
+    "category": "emerging",
+    "tags": [
+      "family",
+      "night",
+      "instagrammable",
+      "camping",
+      "christmas"
+    ],
+    "barangay": "Gabawan",
+    "address": "Brgy. Gabawan, Daraga, Albay (about 10 minutes from Daraga centro)",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A farm-themed park with a tiny hilltop chapel, carabao rides, food stalls and a bonfire after dark.",
+    "long": "FarmPlate is a farm-themed park that bills itself as \"The Happiest Place in Bicol\" and \"Home of the Smallest Chapel in the Philippines\" — the hilltop chapel is its signature photo spot.\n\nExpect a rustic barn, picnic lawns, carabao rides, a kids' play area, and food stalls selling barbecue, wood-fired pizza and buko juice. There is live music and a bonfire in the evening, plus tent and cabin stays.\n\nIt is most popular from late afternoon into the night, when the grounds are lit, and especially festive at Christmas. Reviews are mixed on upkeep.",
+    "highlights": [
+      "The tiny hilltop chapel",
+      "Evening lights, bonfire and live music",
+      "Carabao rides and kids' play area",
+      "Tent and cabin stays"
+    ],
+    "bestTime": "Late afternoon into the evening; December for Christmas displays",
+    "hours": null,
+    "fees": null,
+    "feeNote": "Adult entrance has been reported at about ₱75–95 (2024–2026 sources differ); kids pay less. Confirm at the gate.",
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [
+      "Take a tricycle from Caltex Daraga to Gabawan."
+    ],
+    "images": [],
+    "status": "open",
+    "verifyNote": "Entrance fee unconfirmed.",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "night-market",
+    "slug": "daraga-night-market",
+    "name": "Daraga Night Market",
+    "category": "tambayan",
+    "tags": [
+      "late-night",
+      "street-food",
+      "budget",
+      "local-life"
+    ],
+    "barangay": "Poblacion",
+    "address": "T. Perez St., from Regidor St. to Rizal St., Poblacion, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A nightly street-food crawl along T. Perez St. — the best place to mingle with locals.",
+    "long": "Every night, about 366 m of T. Perez St. — from Regidor St. to Rizal St. — fills with fruit stalls, native food wrapped in banana leaves, grilled street food and late-night eats.\n\nIt is the best place in town to mingle with locals, and a short walk from Red Labuyo and the church hill. The LGU and DTI run regular weighing-scale checks at the public and night markets.",
+    "highlights": [
+      "Grilled street food",
+      "Native kakanin in banana leaves",
+      "Fresh fruit stalls",
+      "Open until dawn"
+    ],
+    "bestTime": "After dinner — it runs until early morning",
+    "hours": "Nightly, about 7 PM – 5 AM",
+    "fees": null,
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [
+      "Bring small bills — stalls are cash only."
+    ],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "food-park",
+    "slug": "daraga-food-park",
+    "name": "Daraga Food Park",
+    "category": "tambayan",
+    "tags": [
+      "group-friendly",
+      "budget",
+      "evening"
+    ],
+    "barangay": "Sagpon",
+    "address": "Rizal St., Brgy. Sagpon, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A casual food park with many stalls — an easy group dinner spot.",
+    "long": "A casual food-park hangout with multiple stalls under one roof. It is a good pick for group dinners when everyone wants something different.",
+    "highlights": [
+      "Many stalls in one place",
+      "Casual, group-friendly"
+    ],
+    "bestTime": "Evenings",
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "red-labuyo",
+    "slug": "red-labuyo-restaurant",
+    "name": "Red Labuyo Restaurant",
+    "category": "restaurant",
+    "tags": [
+      "mayon-view",
+      "bicolano",
+      "near-church",
+      "has-rooms"
+    ],
+    "barangay": "San Roque",
+    "address": "Sta. Maria St., Brgy. San Roque (near Daraga Church), Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Mayon-view Bicolano dining near the church — Bicol Express and laing. Ranked #1 in Daraga on Restaurant Guru (2025).",
+    "long": "A Mayon-view restaurant on Sta. Maria St., near Daraga Church, serving Bicolano classics such as Bicol Express and laing. It was ranked #1 in Daraga on Restaurant Guru in 2025 and also has rooms.\n\nIt's a short walk from the Night Market, so dinner here can roll straight into a street-food crawl.",
+    "highlights": [
+      "Bicol Express and laing",
+      "Mayon views",
+      "Walking distance to the Night Market"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://restaurantguru.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "balay-sa-bikol",
+    "slug": "balay-sa-bikol",
+    "name": "Balay sa Bikol",
+    "category": "restaurant",
+    "tags": [
+      "bicolano",
+      "near-church"
+    ],
+    "barangay": null,
+    "address": "1446 Pag-asa St., Daraga",
+    "coords": {
+      "lat": 13.14978,
+      "lng": 123.70962
+    },
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Classic Bicolano dishes, top-rated on Tripadvisor and Restaurant Guru — a natural stop after the church.",
+    "long": "Balay sa Bikol serves classic Bicolano dishes and is top-rated on Tripadvisor and Restaurant Guru. It's often recommended as a lunch stop after visiting Daraga Church.",
+    "highlights": [
+      "Bicol Express",
+      "Laing",
+      "Classic Bicolano home cooking"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://www.tripadvisor.com",
+      "https://restaurantguru.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "balay-cena-una",
+    "slug": "balay-cena-una",
+    "name": "Balay Cena Una",
+    "category": "restaurant",
+    "tags": [
+      "bicolano",
+      "heritage-house",
+      "fine-dining"
+    ],
+    "barangay": "Bagumbayan",
+    "address": "F. Lotivio St., Brgy. Bagumbayan, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Fine dining in a restored bahay-na-bato, known for chicken tinutungan and lumpiang tinapa.",
+    "long": "A restored bahay-na-bato (stone-and-wood house) turned fine-dining restaurant. It's known for its signature chicken tinutungan, lumpiang tinapa and desserts, and in the past it offered a Sunday buffet.",
+    "highlights": [
+      "Chicken tinutungan",
+      "Lumpiang tinapa",
+      "Kandingga",
+      "Heritage house setting"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "temporarily-closed",
+    "verifyNote": "Tripadvisor lists it as temporarily closed — confirm before visiting.",
+    "sources": [
+      "https://www.tripadvisor.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "magma",
+    "slug": "magma-restaurant-cafe",
+    "name": "Mag'ma Restaurant & Cafe",
+    "category": "restaurant",
+    "tags": [
+      "asian",
+      "filipino",
+      "in-hotel",
+      "breakfast"
+    ],
+    "barangay": "Bañag",
+    "address": "Hotel Herencia 625, Lakandula Dr., Brgy. Bañag, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Asian and Filipino dishes inside Hotel Herencia 625.",
+    "long": "The in-house restaurant of Hotel Herencia 625, serving Asian and Filipino dishes.",
+    "highlights": [
+      "Asian and Filipino menu",
+      "Inside Hotel Herencia 625"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://www.tripadvisor.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "antonias",
+    "slug": "antonias-restaurant",
+    "name": "Antonia's Restaurant, Cafe & Events Place",
+    "category": "restaurant",
+    "tags": [
+      "filipino",
+      "events-venue"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Filipino restaurant and café that doubles as an events venue.",
+    "long": "A Filipino restaurant and café that also serves as an events venue.",
+    "highlights": [
+      "Filipino dishes",
+      "Events venue"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Directory listing only — address and hours unconfirmed.",
+    "sources": [
+      "https://restaurantguru.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "jardin-del-nunez",
+    "slug": "jardin-del-nunez",
+    "name": "Jardin del Nuñez",
+    "category": "restaurant",
+    "tags": [
+      "garden",
+      "filipino"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A garden restaurant, ranked #3 in Daraga on Restaurant Guru.",
+    "long": "A garden restaurant ranked #3 in Daraga on Restaurant Guru.",
+    "highlights": [
+      "Garden setting"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Address and hours unconfirmed.",
+    "sources": [
+      "https://restaurantguru.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "first-colonial-grill",
+    "slug": "1st-colonial-grill-daraga",
+    "name": "1st Colonial Grill (Daraga branch)",
+    "category": "restaurant",
+    "tags": [
+      "bicolano",
+      "sili-ice-cream",
+      "dessert"
+    ],
+    "barangay": "Sagpon",
+    "address": "Brgy. Sagpon, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Home of sili (chili) ice cream — with heat levels all the way up to \"Mayon\" — plus Bicolano mains.",
+    "long": "1st Colonial Grill invented sili ice cream in 2004, with heat levels up to \"Mayon\". Other flavours include pili, malunggay and tinutong na bigas (toasted rice). It also serves Bicolano mains and tinapa (smoked fish) twists on staples.",
+    "highlights": [
+      "Sili ice cream",
+      "Pili, malunggay and tinutong na bigas flavours",
+      "Tinapa rice"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Confirm Daraga branch hours.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sili_ice_cream"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "sizzling-time",
+    "slug": "sizzling-time-daraga",
+    "name": "Sizzling Time Daraga",
+    "category": "restaurant",
+    "tags": [
+      "late-night",
+      "sizzlers"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Late-night sizzling plates, reportedly open until about 4 AM.",
+    "long": "Late-night sizzling plates. It has been reported to stay open until about 4 AM.",
+    "highlights": [
+      "Sizzlers",
+      "Late-night hours"
+    ],
+    "bestTime": "Late night",
+    "hours": "Reported open until about 4 AM",
+    "fees": null,
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Hours and address unconfirmed.",
+    "sources": [
+      "https://restaurantguru.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "roses-kinalas",
+    "slug": "roses-kinalas",
+    "name": "Rose's Kinalas",
+    "category": "restaurant",
+    "tags": [
+      "kinalas",
+      "noodles",
+      "budget"
+    ],
+    "barangay": null,
+    "address": "Lotivio St., Daraga",
+    "coords": {
+      "lat": 13.14398,
+      "lng": 123.71585
+    },
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Kinalas — noodle soup with a rich broth and shredded meat.",
+    "long": "A spot for kinalas, the noodle soup with rich broth and shredded meat that originated in Naga and is popular across Albay.",
+    "highlights": [
+      "Kinalas"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Confirm it is still open.",
+    "sources": [],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "cafe-fabrika",
+    "slug": "cafe-fabrika",
+    "name": "Cafe Fabrika",
+    "category": "cafe",
+    "tags": [
+      "vintage",
+      "study-friendly",
+      "souvenirs",
+      "art"
+    ],
+    "barangay": "Kimantong",
+    "address": "L.G. Paran Bldg., Brgy. Kimantong, Daraga (walkable from Daraga Park)",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A vintage café in a former abaca handicraft factory — art gallery, books, puzzles and free painting.",
+    "long": "Cafe Fabrika is a vintage café inside a former abaca handicraft factory. It doubles as an art gallery, with vintage collections, souvenirs, books, puzzles and free painting. Regulars recommend the garlic-cheese pizza.",
+    "highlights": [
+      "Former abaca factory",
+      "Art gallery and vintage collections",
+      "Free painting, books and puzzles",
+      "Garlic-cheese pizza"
+    ],
+    "bestTime": "Afternoons",
+    "hours": "Daily 11 AM – 9 PM (per Instagram)",
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "ilawod-528",
+    "slug": "528-ilawod-cafe",
+    "name": "528 Ilawod Cafe",
+    "category": "cafe",
+    "tags": [
+      "local-brand",
+      "late-afternoon",
+      "cakes"
+    ],
+    "barangay": null,
+    "address": "Lotivio St., Daraga",
+    "coords": {
+      "lat": 13.14791,
+      "lng": 123.7137
+    },
+    "plusCode": "4PX7+5F8 Daraga, Albay",
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A home-grown Daraga café (main branch) for coffee, frappes, cakes and pasta.",
+    "long": "The main branch of a home-grown Daraga café brand, serving coffee, frappes, cakes and pasta. It has since opened branches at SM Legazpi and SM Sorsogon.",
+    "highlights": [
+      "Home-grown Daraga brand",
+      "Coffee, frappes and cakes",
+      "Pasta"
+    ],
+    "bestTime": "Late afternoon",
+    "hours": "Reported open until about 9 PM",
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "originals-street-cafe",
+    "slug": "the-originals-street-cafe",
+    "name": "The Originals Street Cafe",
+    "category": "cafe",
+    "tags": [
+      "bicol-flavours",
+      "wifi"
+    ],
+    "barangay": "Bagumbayan",
+    "address": "Ynez Suites, F. Lotivio St., Brgy. Bagumbayan, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Filipino-inspired menu — tinapa pizza, Bicolana latte and sili latte — with free Wi-Fi.",
+    "long": "A café with a Filipino-inspired menu: tinapa (smoked fish) pizza and pasta, a Bicolana latte and a sili latte. Free Wi-Fi.",
+    "highlights": [
+      "Sili latte",
+      "Bicolana latte",
+      "Tinapa pizza and pasta",
+      "Free Wi-Fi"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "coffee-spot",
+    "slug": "coffee-spot-daraga",
+    "name": "Coffee Spot – Daraga",
+    "category": "cafe",
+    "tags": [
+      "mayon-view"
+    ],
+    "barangay": "Tagas",
+    "address": "Purok 1, Brgy. Tagas (Imelda Roces Ave side), Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A café rated for its Mayon views — try the cheesecake and sisig dumplings.",
+    "long": "A café known for its Mayon views. Visitors recommend the cheesecake and sisig dumplings.",
+    "highlights": [
+      "Mayon views",
+      "Cheesecake",
+      "Sisig dumplings"
+    ],
+    "bestTime": "Morning, while Mayon is clear",
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "tierra-cafe",
+    "slug": "tierra-cafe",
+    "name": "Tierra Cafe",
+    "category": "cafe",
+    "tags": [
+      "matcha",
+      "study-friendly",
+      "tiktok"
+    ],
+    "barangay": "Sagpon",
+    "address": "Rizal St., Brgy. Sagpon, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A cosy matcha-and-coffee spot that's popular on TikTok as a study café.",
+    "long": "A cosy matcha and coffee spot that's popular on TikTok as a study café.",
+    "highlights": [
+      "Matcha drinks",
+      "Study-friendly seating"
+    ],
+    "bestTime": null,
+    "hours": "Mon–Sat 9 AM – 9 PM (per Facebook)",
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "hotel-herencia",
+    "slug": "hotel-herencia-625",
+    "name": "Hotel Herencia 625",
+    "category": "hotel",
+    "tags": [
+      "3-star",
+      "restaurant",
+      "airport-transfer",
+      "free-parking",
+      "near-church",
+      "near-cagsawa"
+    ],
+    "barangay": "Bañag",
+    "address": "Lakandula Dr., Brgy. Bañag, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A well-reviewed 3-star hotel (formerly Abaca Suites) minutes from Daraga Church and Cagsawa.",
+    "long": "Formerly Abaca Suites, Hotel Herencia 625 is a 3-star hotel with an in-house restaurant (Mag'ma), cooked-to-order breakfast, a 24-hour front desk, free parking, tour assistance and airport transfers. It's minutes from Daraga Church and Cagsawa Ruins.\n\nIt holds a Tripadvisor Travelers' Choice award, and a June 2026 Hotels.com review called it \"clean and comfortable\".",
+    "highlights": [
+      "Cooked-to-order breakfast, 6:30–10 AM",
+      "24-hour front desk",
+      "Airport transfers and tour assistance",
+      "Check-in 2 PM, check-out 12 noon"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": {
+      "source": "Tripadvisor",
+      "value": 5,
+      "outOf": 5,
+      "asOf": "2026-09-27"
+    },
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://www.tripadvisor.com",
+      "https://www.hotels.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "casa-bicolandia",
+    "slug": "casa-bicolandia-suites",
+    "name": "Casa Bicolandia Suites",
+    "category": "hotel",
+    "tags": [
+      "mayon-view",
+      "pool",
+      "pet-friendly",
+      "near-church",
+      "free-parking"
+    ],
+    "barangay": null,
+    "address": "Near Daraga Church (about a 10-minute walk, on the hill), Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Rooftop Mayon-view terrace, pool and on-site mall, a 10-minute walk from Daraga Church.",
+    "long": "Casa Bicolandia Suites has a rooftop restaurant and terrace with Mayon views, an on-site mall, a pool, free parking and Wi-Fi, and it's pet-friendly.\n\nReviews are mixed: 3/5 on Tripadvisor, while a May 2026 Hotels.com review praised the food and pool.",
+    "highlights": [
+      "Rooftop Mayon-view terrace",
+      "Pool",
+      "Pet-friendly",
+      "On-site mall"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": {
+      "source": "Tripadvisor",
+      "value": 3,
+      "outOf": 5,
+      "asOf": "2026-09-27"
+    },
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://www.tripadvisor.com",
+      "https://www.hotels.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "a-travellers-inn",
+    "slug": "a-travellers-inn",
+    "name": "A Traveller's Inn",
+    "category": "hotel",
+    "tags": [
+      "budget",
+      "pet-friendly",
+      "clean"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Praised for clean rooms and attentive staff; pet-friendly.",
+    "long": "Guests praise the clean rooms and attentive staff. Pet-friendly.",
+    "highlights": [
+      "Clean rooms",
+      "Attentive staff",
+      "Pet-friendly"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://viajekita.com/blogs/",
+      "https://www.trip.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "daraga-tourist-inn",
+    "slug": "daraga-tourist-inn",
+    "name": "Daraga Tourist Inn",
+    "category": "hotel",
+    "tags": [
+      "budget",
+      "free-parking"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A budget inn about 2.4 miles from Cagsawa Ruins, with free parking.",
+    "long": "A budget inn about 2.4 miles (3.9 km) from Cagsawa Ruins, with free parking.",
+    "highlights": [
+      "Budget-friendly",
+      "Free parking"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "OTA listing only.",
+    "sources": [
+      "https://www.traveloka.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "ys-rezidenzia",
+    "slug": "ys-rezidenzia-suites",
+    "name": "Y's Rezidenzia Suites",
+    "category": "hotel",
+    "tags": [
+      "free-parking"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Suites that are popular on Traveloka, with free parking.",
+    "long": "Suites that are popular on Traveloka, with free parking.",
+    "highlights": [
+      "Free parking"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "OTA listing only.",
+    "sources": [
+      "https://www.traveloka.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "casa-lorenzo",
+    "slug": "casa-lorenzo",
+    "name": "Casa Lorenzo (Cocotel)",
+    "category": "hotel",
+    "tags": [
+      "breakfast"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Budget-to-mid-range rooms with breakfast.",
+    "long": "Budget-to-mid-range rooms with breakfast, listed under Cocotel.",
+    "highlights": [
+      "Breakfast"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "OTA listing only.",
+    "sources": [],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "casa-basilisa",
+    "slug": "casa-basilisa",
+    "name": "Casa Basilisa Eco-boutique Resort (Cocotel)",
+    "category": "hotel",
+    "tags": [
+      "family",
+      "jacuzzi"
+    ],
+    "barangay": null,
+    "address": null,
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "A family-friendly eco-boutique resort with a jacuzzi.",
+    "long": "A family-friendly eco-boutique resort with a jacuzzi, listed under Cocotel.",
+    "highlights": [
+      "Jacuzzi",
+      "Family-friendly"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "OTA listing only.",
+    "sources": [],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "the-oriental-legazpi",
+    "slug": "the-oriental-legazpi",
+    "name": "The Oriental Legazpi",
+    "category": "hotel",
+    "tags": [
+      "nearby-legazpi",
+      "mayon-view",
+      "gulf-view",
+      "breakfast"
+    ],
+    "barangay": null,
+    "address": "Taysan hills, Legazpi City (10–20 minutes from Daraga)",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Hilltop hotel in nearby Legazpi with Albay Gulf and Mayon views and a well-reviewed breakfast.",
+    "long": "A hilltop hotel in the Taysan hills of Legazpi, 10–20 minutes from Daraga, with views of Albay Gulf and Mayon. Reviewers praise the breakfast spread.",
+    "highlights": [
+      "Albay Gulf and Mayon views",
+      "Breakfast spread"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": "₱₱₱",
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Booking.com reviews only — outside Daraga.",
+    "sources": [
+      "https://www.booking.com"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "bicol-airport",
+    "slug": "bicol-international-airport",
+    "name": "Bicol International Airport (DRP)",
+    "category": "transport",
+    "tags": [
+      "airport",
+      "mayon-view"
+    ],
+    "barangay": "Alobo",
+    "address": "Brgy. Alobo area, Daraga, Albay",
+    "coords": {
+      "lat": 13.11222,
+      "lng": 123.67722
+    },
+    "plusCode": null,
+    "coordsVerified": true,
+    "nearPdz": false,
+    "short": "Bicol's gateway airport, in Daraga — billed as the Philippines' \"Most Scenic Gateway\" for its Mayon views.",
+    "long": "Bicol International Airport (IATA: DRP, ICAO: RPLK) opened in October 2021 in Daraga and is billed as the Philippines' \"Most Scenic Gateway\" for its Mayon views.\n\nListed routes include PAL Express and Cebu Pacific from Manila, and Cebgo from Cebu and Iloilo — check airline schedules, as routes change. It's about 15–30 minutes by road to Daraga and Legazpi.",
+    "highlights": [
+      "Flights from Manila, Cebu and Iloilo",
+      "15–30 min to Daraga / Legazpi",
+      "Mayon views on approach"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [
+      "Sit on the side facing Mayon when landing for the famous view."
+    ],
+    "images": [],
+    "status": "open",
+    "verifyNote": "Airline routes change — check current schedules.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bicol_International_Airport"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "pnr-daraga",
+    "slug": "pnr-daraga-station",
+    "name": "PNR Daraga Station",
+    "category": "transport",
+    "tags": [
+      "train"
+    ],
+    "barangay": null,
+    "address": "Market Area, Daraga (South Main Line)",
+    "coords": {
+      "lat": 13.15077,
+      "lng": 123.71598
+    },
+    "plusCode": null,
+    "coordsVerified": true,
+    "nearPdz": false,
+    "short": "Daraga's stop on the PNR South Main Line. Service is intermittent — check PNR advisories.",
+    "long": "Daraga Station sits in the market area on the Philippine National Railways South Main Line. Service is intermittent: a bridge in Guinobatan was damaged by Typhoon Uwan in November 2025. Check PNR advisories before planning around the train.",
+    "highlights": [
+      "Near the public market"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Service is intermittent.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Daraga_station"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "tourism-office",
+    "slug": "daraga-tourism-office",
+    "name": "Daraga Tourism Office (Municipal Hall)",
+    "category": "service",
+    "tags": [
+      "tourism-office",
+      "government"
+    ],
+    "barangay": "San Roque",
+    "address": "Municipal Hall, T. Perez St., Brgy. San Roque, Daraga",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Ask here about opening hours, fees, guides and anything this site marks \"verify\".",
+    "long": "The municipal tourism office is at the Municipal Hall on T. Perez St. The stairs up to Daraga Church start right beside it.",
+    "highlights": [
+      "Official visitor information",
+      "Stairs to Daraga Church start beside the hall"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": {
+      "phone": "+63 956 862 4653",
+      "email": "lgudaraga.tourism2025@gmail.com",
+      "website": "https://daraga.gov.ph"
+    },
+    "rating": null,
+    "safety": null,
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://daraga.gov.ph"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "seven-eleven-salugan",
+    "slug": "7-eleven-mayon-view-camalig",
+    "name": "The 7-Eleven with a Mayon backdrop (Camalig)",
+    "category": "day-trip",
+    "tags": [
+      "photo-spot",
+      "mayon-view",
+      "viral"
+    ],
+    "barangay": "Salugan, Camalig",
+    "address": "Brgy. Salugan, Camalig, Albay",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "The viral \"Philippine Fuji-Lawson\" shot — a convenience store with Mayon rising behind it.",
+    "long": "In April 2025 a 7-Eleven in Brgy. Salugan, Camalig went viral as the Philippine answer to Japan's Mount Fuji Lawson photo, with Mayon rising behind the storefront.",
+    "highlights": [
+      "Viral photo spot",
+      "Mayon backdrop"
+    ],
+    "bestTime": "Morning",
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": "Mind traffic on the highway while taking photos.",
+    "tips": [],
+    "images": [],
+    "status": "open",
+    "sources": [
+      "https://interaksyon.philstar.com/trends-spotlights/2025/05/19/296577/albay-convenience-store-tourist-spot-mayon-volcano-view/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "camalig-day-trip",
+    "slug": "camalig-day-trip",
+    "name": "Camalig day trip",
+    "category": "day-trip",
+    "tags": [
+      "lake",
+      "cave",
+      "hills",
+      "pinangat"
+    ],
+    "barangay": null,
+    "address": "Camalig, Albay (next town west of Daraga)",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Sumlang Lake, Quitinday Hills, Hoyop-Hoyopan Cave, pinangat and the viral 7-Eleven Mayon shot.",
+    "long": "Daraga's western neighbour makes an easy day trip. Combine Sumlang Lake, the Quitinday (Quintinday) Hills and Hoyop-Hoyopan Cave, eat pinangat — Camalig's famous taro-leaf parcels — and stop for the viral 7-Eleven Mayon photo in Brgy. Salugan.",
+    "highlights": [
+      "Sumlang Lake",
+      "Quitinday Hills",
+      "Hoyop-Hoyopan Cave",
+      "Pinangat"
+    ],
+    "bestTime": "Start early for clear Mayon views",
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [
+      "Jovellar's Quitinday Underground River is an option for adventurous travellers."
+    ],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Outside Daraga — confirm fees and hours with the Camalig tourism office.",
+    "sources": [
+      "https://albay.gov.ph/tourist-spot/"
+    ],
+    "lastVerified": "2026-09-27"
+  },
+  {
+    "id": "legazpi-day-trip",
+    "slug": "legazpi-day-trip",
+    "name": "Legazpi day trip",
+    "category": "day-trip",
+    "tags": [
+      "city",
+      "boulevard",
+      "viewpoint"
+    ],
+    "barangay": null,
+    "address": "Legazpi City, Albay (north of Daraga)",
+    "coords": null,
+    "plusCode": null,
+    "coordsVerified": false,
+    "nearPdz": false,
+    "short": "Ligñon Hill, Legazpi Boulevard, the Embarcadero and Albay Park & Wildlife — minutes from Daraga.",
+    "long": "Albay's capital is right next door. Popular stops include Ligñon Hill, Legazpi Boulevard along Albay Gulf, the Embarcadero and Albay Park & Wildlife.",
+    "highlights": [
+      "Ligñon Hill",
+      "Legazpi Boulevard",
+      "Embarcadero",
+      "Albay Park & Wildlife"
+    ],
+    "bestTime": null,
+    "hours": null,
+    "fees": null,
+    "priceBand": null,
+    "contact": null,
+    "rating": null,
+    "safety": null,
+    "tips": [
+      "Jeepneys run between Daraga and Legazpi all day."
+    ],
+    "images": [],
+    "status": "verify",
+    "verifyNote": "Outside Daraga — confirm fees and hours locally.",
+    "sources": [
+      "https://thepinaysolobackpacker.com/legazpi-itinerary/"
+    ],
+    "lastVerified": "2026-09-27"
+  }
+]

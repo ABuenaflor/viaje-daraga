@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "explore": "Explore",
+    "map": "Map",
+    "eat": "Eat",
+    "cafes": "Cafés & tambayan",
+    "stay": "Stay",
+    "events": "Events",
+    "plan": "Plan",
+    "heritage": "1814",
+    "about": "About",
+    "search": "Search",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content"
+  },
+  "advisory": {
+    "level": "Mayon Alert Level {level}",
+    "noEntry": "No entry: {km}-km Permanent Danger Zone",
+    "updated": "Updated {date}",
+    "details": "Full advisory",
+    "source": "Check {source}",
+    "collapse": "Collapse advisory",
+    "expand": "Show Mayon advisory",
+    "verify": "Confirm the current level with PHIVOLCS before you travel."
+  },
+  "common": {
+    "askOffice": "Ask the tourism office",
+    "approximate": "Location approximate",
+    "directions": "Directions",
+    "details": "Details",
+    "share": "Share",
+    "copied": "Link copied",
+    "save": "Save",
+    "saved": "Saved",
+    "lastVerified": "Last checked {date}",
+    "sources": "Sources",
+    "verify": "Unconfirmed — verify before visiting",
+    "tempClosed": "Temporarily closed",
+    "nearPdz": "Near the Mayon danger zone"
+  },
+  "footer": {
+    "tagline": "The visitor companion to the Municipality of Daraga, Albay.",
+    "official": "Official LGU site",
+    "hotlines": "Hotlines",
+    "credits": "Credits",
+    "disclaimer": "Listings are research snapshots. Details marked unconfirmed are being checked with the Daraga Tourism Office."
+  }
+}

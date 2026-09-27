@@ -1,0 +1,10 @@
+{
+  "mayonAlertLevel": 2,
+  "pdzKm": 6,
+  "extendedZoneKm": null,
+  "summary": "Mayon Volcano is under Alert Level 2 (increasing unrest). Entry into the 6-km Permanent Danger Zone is strictly prohibited. Avoid river channels during heavy rain because of lahar risk.",
+  "source": "PHIVOLCS",
+  "sourceUrl": "https://hazardhunter.georisk.gov.ph/monitoring/volcano",
+  "updatedAt": "2026-09-27",
+  "needsVerification": true
+}
