@@ -2,7 +2,7 @@
   "name": "Viaje Daraga",
   "tagline": "Where Mayon meets memory",
   "officialLine": "Where breathtaking views inspire economic growth.",
-  "url": "https://viajedaraga.example",
+  "url": "https://viaje-daraga.vercel.app",
   "lguUrl": "https://daraga.gov.ph",
   "mayonSummit": { "lat": 13.25667, "lng": 123.685 },
   "mapCenter": { "lat": 13.155, "lng": 123.705 },

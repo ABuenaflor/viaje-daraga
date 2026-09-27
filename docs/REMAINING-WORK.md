@@ -74,7 +74,7 @@
 
 ### 3.4 Accounts and infrastructure
 
-- [ ] Domain name. Replace `viajedaraga.example` in `data/site.json`.
+- [ ] Custom domain (optional). The site uses `https://viaje-daraga.vercel.app` for now; if you get your own domain, add it in Vercel and update `url` in `data/site.json`.
 - [ ] Hosting: GitHub repository plus a Vercel account (free tier is enough for phase 1).
 - [ ] Analytics account (Plausible or Umami).
 - [ ] *(Phase 2)* Choice of content editor, and which staff get editing access.
